@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 )
-
-const Port, UrlPath, Name, PagePath = ":8080", "/", "Cequallium", "pages"
+// files will be served in ./pages/
+const Port, UrlPath, Name, PagePath = ":8080", "/", "Author", "pages"
 const separator = "_____________________________________________________________"
 
 var Footer = fmt.Sprintf("%v\n\n Probably best viewed in a terminal...\n\nCopyright (c) %v %v. All Rights Reserved.\n", separator, time.Now().Year(), Name)

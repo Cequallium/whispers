@@ -1,10 +1,9 @@
 [ whisper ]
 
     an ode to plaintext
-    a breeding ground for exploits
-    a plaintext file server
-    fit for whispers from the void
+    fit for whispers from a void
 
+also this probably has tons of vulnerabilities
 _____________________________________________________________
 
 Copyright (c) 2024 Cequallium. All Rights Reserved.

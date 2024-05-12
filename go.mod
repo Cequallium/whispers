@@ -1,3 +1,3 @@
-module plaintext-blog
+module whispers 
 
 go 1.22.2
